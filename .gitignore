@@ -15,6 +15,7 @@
 !/config/local
 /config/local/*
 !config/local/.gitkeep
+/.env
 
 /var/*
 !/var/.gitkeep
